@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-докум-постав-e",
+  "editForm": "i-i-s-paket-докум-постав-e",
+  "external": false,
+  "caption": "Докум постав",
+  "name": "IISPaketДокумПоставL",
+  "className": "ДокумПоставL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-докум-постав",
+      "modelProjection": "ДокумПоставL"
+    }
+  ]
+}

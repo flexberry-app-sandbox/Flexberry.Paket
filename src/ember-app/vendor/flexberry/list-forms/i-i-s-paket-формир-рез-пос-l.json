@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-формир-рез-пос-e",
+  "editForm": "i-i-s-paket-формир-рез-пос-e",
+  "external": false,
+  "caption": "Формир рез пос",
+  "name": "IISPaketФормирРезПосL",
+  "className": "ФормирРезПосL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-формир-рез-пос",
+      "modelProjection": "ФормирРезПосL"
+    }
+  ]
+}

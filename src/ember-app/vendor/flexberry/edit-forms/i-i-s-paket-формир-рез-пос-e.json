@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ФормирРаспред",
+      "projection": "ФормирРаспредL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Формир рез пос",
+  "name": "IISPaketФормирРезПосE",
+  "className": "ФормирРезПосE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-формир-рез-пос",
+      "modelProjection": "ФормирРезПосE"
+    }
+  ]
+}

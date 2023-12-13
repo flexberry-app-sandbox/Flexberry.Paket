@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-клиенты-e",
+  "editForm": "i-i-s-paket-клиенты-e",
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISPaketКлиентыL",
+  "className": "КлиентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-клиенты",
+      "modelProjection": "КлиентыL"
+    }
+  ]
+}

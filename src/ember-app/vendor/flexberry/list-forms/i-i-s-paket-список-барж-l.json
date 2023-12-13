@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-список-барж-e",
+  "editForm": "i-i-s-paket-список-барж-e",
+  "external": false,
+  "caption": "Список барж",
+  "name": "IISPaketСписокБаржL",
+  "className": "СписокБаржL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-список-барж",
+      "modelProjection": "СписокБаржL"
+    }
+  ]
+}

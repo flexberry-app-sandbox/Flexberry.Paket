@@ -1,0 +1,78 @@
+﻿{
+  "applicationCaption": "Paket",
+  "applicationTitle": "Paket",
+  "items": [
+    {
+      "link": null,
+      "menuName": "paket",
+      "caption": "Paket",
+      "title": "Paket",
+      "children": [
+        {
+          "link": "i-i-s-paket-формир-распред-l",
+          "menuName": null,
+          "caption": "Формир распред",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-список-барж-l",
+          "menuName": null,
+          "caption": "Список барж",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-список-контей-l",
+          "menuName": null,
+          "caption": "Список контей",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-докум-постав-l",
+          "menuName": null,
+          "caption": "Докум постав",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-формир-рез-пос-l",
+          "menuName": null,
+          "caption": "Формир рез пос",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-пункт-погрузки-l",
+          "menuName": null,
+          "caption": "Пункт погрузки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-paket-товары-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

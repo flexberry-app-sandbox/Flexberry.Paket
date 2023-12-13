@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-список-контей-e",
+  "editForm": "i-i-s-paket-список-контей-e",
+  "external": false,
+  "caption": "Список контей",
+  "name": "IISPaketСписокКонтейL",
+  "className": "СписокКонтейL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-список-контей",
+      "modelProjection": "СписокКонтейL"
+    }
+  ]
+}

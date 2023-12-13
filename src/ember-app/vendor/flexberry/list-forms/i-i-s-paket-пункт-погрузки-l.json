@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-пункт-погрузки-e",
+  "editForm": "i-i-s-paket-пункт-погрузки-e",
+  "external": false,
+  "caption": "Пункт погрузки",
+  "name": "IISPaketПунктПогрузкиL",
+  "className": "ПунктПогрузкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-пункт-погрузки",
+      "modelProjection": "ПунктПогрузкиL"
+    }
+  ]
+}

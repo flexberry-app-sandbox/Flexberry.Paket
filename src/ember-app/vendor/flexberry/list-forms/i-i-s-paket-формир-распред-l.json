@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-paket-формир-распред-e",
+  "editForm": "i-i-s-paket-формир-распред-e",
+  "external": false,
+  "caption": "Формир распред",
+  "name": "IISPaketФормирРаспредL",
+  "className": "ФормирРаспредL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-paket-формир-распред",
+      "modelProjection": "ФормирРаспредL"
+    }
+  ]
+}

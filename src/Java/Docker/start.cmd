@@ -1,0 +1,1 @@
+docker-compose -p paket-java up -d
